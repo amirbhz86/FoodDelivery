@@ -1,0 +1,3 @@
+export const APP_CHANGE_DATA = 'APP_CHANGE_DATA'
+export const APP_INSERT_DATA = 'APP_INSERT_DATA'
+export const APP_RESET_DATA = 'APP_RESET_DATA'
